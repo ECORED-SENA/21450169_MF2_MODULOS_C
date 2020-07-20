@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="592" height="346.634" viewBox="0 0 592 346.634">
+  <g id="Grupo_10592" data-name="Grupo 10592" transform="translate(-423.307 -1582.778)">
+    <text id="Representación_gráfica_de_un_arreglo_bidimensional" data-name="Representación gráfica de un arreglo bidimensional" transform="translate(719.307 1603.778)" fill="#008275" font-size="22" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-295.361" y="0">Representación gráfica de un arreglo bidimensional</tspan></text>
+    <g id="Grupo_10545" data-name="Grupo 10545" transform="translate(1512 -1)">
+      <text id="_0" data-name="0" transform="translate(-860.693 1655.351)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="9.254" y="19">0</tspan></text>
+      <text id="COLUMNAS" transform="translate(-839.493 1628.365)" fill="#805413" font-size="18" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="15.801" y="19">COLUMNAS</tspan></text>
+      <text id="_0-2" data-name="0" transform="translate(-906.893 1696.544)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="9.254" y="19">0</tspan></text>
+      <text id="_1" data-name="1" transform="translate(-906.893 1745.344)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="9.254" y="19">1</tspan></text>
+      <text id="_2" data-name="2" transform="translate(-906.893 1794.144)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="9.254" y="19">2</tspan></text>
+      <text id="_3" data-name="3" transform="translate(-906.893 1842.944)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="9.254" y="19">3</tspan></text>
+      <text id="_1-2" data-name="1" transform="translate(-811.893 1655.351)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="9.254" y="19">1</tspan></text>
+      <text id="_2-2" data-name="2" transform="translate(-763.093 1655.351)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="9.254" y="19">2</tspan></text>
+      <text id="_3-2" data-name="3" transform="translate(-714.293 1655.351)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="9.254" y="19">3</tspan></text>
+      <rect id="Rectángulo_4380" data-name="Rectángulo 4380" width="48.8" height="48.8" transform="translate(-870.693 1684.912)" stroke-width="3" stroke="#ffca7d" stroke-linecap="round" stroke-linejoin="round" fill="#ffe7ba"/>
+      <g id="Grupo_10541" data-name="Grupo 10541">
+        <rect id="Rectángulo_4381" data-name="Rectángulo 4381" width="48.8" height="48.8" transform="translate(-821.893 1684.912)" stroke-width="3" stroke="#ffca7d" stroke-linecap="round" stroke-linejoin="round" fill="#ffe7ba"/>
+        <rect id="Rectángulo_4382" data-name="Rectángulo 4382" width="48.8" height="48.8" transform="translate(-773.093 1684.912)" stroke-width="3" stroke="#ffca7d" stroke-linecap="round" stroke-linejoin="round" fill="#ffe7ba"/>
+      </g>
+      <rect id="Rectángulo_4383" data-name="Rectángulo 4383" width="48.8" height="48.8" transform="translate(-724.293 1684.912)" stroke-width="3" stroke="#ffca7d" stroke-linecap="round" stroke-linejoin="round" fill="#ffe7ba"/>
+      <rect id="Rectángulo_4384" data-name="Rectángulo 4384" width="48.8" height="48.8" transform="translate(-870.693 1733.712)" stroke-width="3" stroke="#ffca7d" stroke-linecap="round" stroke-linejoin="round" fill="#ffe7ba"/>
+      <rect id="Rectángulo_4385" data-name="Rectángulo 4385" width="48.8" height="48.8" transform="translate(-821.893 1733.712)" stroke-width="3" stroke="#ffca7d" stroke-linecap="round" stroke-linejoin="round" fill="#ffe7ba"/>
+      <rect id="Rectángulo_4386" data-name="Rectángulo 4386" width="48.8" height="48.8" transform="translate(-773.093 1733.712)" stroke-width="3" stroke="#ffca7d" stroke-linecap="round" stroke-linejoin="round" fill="#ffe7ba"/>
+      <rect id="Rectángulo_4387" data-name="Rectángulo 4387" width="48.8" height="48.8" transform="translate(-724.293 1733.712)" stroke-width="3" stroke="#ffca7d" stroke-linecap="round" stroke-linejoin="round" fill="#ffe7ba"/>
+      <rect id="Rectángulo_4388" data-name="Rectángulo 4388" width="48.8" height="48.8" transform="translate(-870.693 1782.512)" stroke-width="3" stroke="#ffca7d" stroke-linecap="round" stroke-linejoin="round" fill="#ffe7ba"/>
+      <rect id="Rectángulo_4389" data-name="Rectángulo 4389" width="48.8" height="48.8" transform="translate(-821.893 1782.512)" stroke-width="3" stroke="#ffca7d" stroke-linecap="round" stroke-linejoin="round" fill="#ffe7ba"/>
+      <rect id="Rectángulo_4390" data-name="Rectángulo 4390" width="48.8" height="48.8" transform="translate(-773.093 1782.512)" stroke-width="3" stroke="#ffca7d" stroke-linecap="round" stroke-linejoin="round" fill="#ffe7ba"/>
+      <rect id="Rectángulo_4391" data-name="Rectángulo 4391" width="48.8" height="48.8" transform="translate(-724.293 1782.512)" stroke-width="3" stroke="#ffca7d" stroke-linecap="round" stroke-linejoin="round" fill="#ffe7ba"/>
+      <rect id="Rectángulo_4392" data-name="Rectángulo 4392" width="48.8" height="48.8" transform="translate(-870.693 1831.312)" stroke-width="3" stroke="#ffca7d" stroke-linecap="round" stroke-linejoin="round" fill="#ffe7ba"/>
+      <rect id="Rectángulo_4393" data-name="Rectángulo 4393" width="48.8" height="48.8" transform="translate(-821.893 1831.312)" stroke-width="3" stroke="#ffca7d" stroke-linecap="round" stroke-linejoin="round" fill="#ffe7ba"/>
+      <rect id="Rectángulo_4394" data-name="Rectángulo 4394" width="48.8" height="48.8" transform="translate(-773.093 1831.312)" stroke-width="3" stroke="#ffca7d" stroke-linecap="round" stroke-linejoin="round" fill="#ffe7ba"/>
+      <rect id="Rectángulo_4395" data-name="Rectángulo 4395" width="48.8" height="48.8" transform="translate(-724.293 1831.312)" stroke-width="3" stroke="#ffca7d" stroke-linecap="round" stroke-linejoin="round" fill="#ffe7ba"/>
+      <text id="_4" data-name="4" transform="translate(-906.893 1891.744)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="9.254" y="19">4</tspan></text>
+      <rect id="Rectángulo_4396" data-name="Rectángulo 4396" width="48.8" height="48.8" transform="translate(-870.693 1880.112)" stroke-width="3" stroke="#ffca7d" stroke-linecap="round" stroke-linejoin="round" fill="#ffe7ba"/>
+      <rect id="Rectángulo_4397" data-name="Rectángulo 4397" width="48.8" height="48.8" transform="translate(-821.893 1880.112)" stroke-width="3" stroke="#ffca7d" stroke-linecap="round" stroke-linejoin="round" fill="#ffe7ba"/>
+      <rect id="Rectángulo_4398" data-name="Rectángulo 4398" width="48.8" height="48.8" transform="translate(-773.093 1880.112)" stroke-width="3" stroke="#ffca7d" stroke-linecap="round" stroke-linejoin="round" fill="#ffe7ba"/>
+      <rect id="Rectángulo_4399" data-name="Rectángulo 4399" width="48.8" height="48.8" transform="translate(-724.293 1880.112)" stroke-width="3" stroke="#ffca7d" stroke-linecap="round" stroke-linejoin="round" fill="#ffe7ba"/>
+      <text id="A" transform="translate(-860.693 1696.544)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="8.705" y="19">A</tspan></text>
+      <text id="B" transform="translate(-811.893 1696.544)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="8.568" y="19">B</tspan></text>
+      <text id="C" transform="translate(-763.093 1696.544)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="8.722" y="19">C</tspan></text>
+      <text id="D" transform="translate(-714.293 1696.544)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="7.839" y="19">D</tspan></text>
+      <text id="E" transform="translate(-860.693 1745.344)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="9.395" y="19">E</tspan></text>
+      <text id="F" transform="translate(-811.893 1745.344)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="9.755" y="19">F</tspan></text>
+      <text id="G" transform="translate(-763.093 1745.344)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="7.848" y="19">G</tspan></text>
+      <text id="H" transform="translate(-714.293 1745.344)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="7.76" y="19">H</tspan></text>
+      <text id="I" transform="translate(-860.693 1794.144)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="11.891" y="19">I</tspan></text>
+      <text id="J" transform="translate(-811.893 1794.144)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="11.996" y="19">J</tspan></text>
+      <text id="K" transform="translate(-763.093 1794.144)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="8.876" y="19">K</tspan></text>
+      <text id="L" transform="translate(-714.293 1794.144)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="9.729" y="19">L</tspan></text>
+      <text id="M" transform="translate(-860.693 1842.944)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="6.275" y="19">M</tspan></text>
+      <text id="N" transform="translate(-811.893 1842.944)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="7.615" y="19">N</tspan></text>
+      <text id="O" transform="translate(-763.093 1842.944)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="7.391" y="19">O</tspan></text>
+      <text id="P" transform="translate(-714.293 1842.944)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="8.982" y="19">P</tspan></text>
+      <text id="Q" transform="translate(-860.693 1891.744)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="7.391" y="19">Q</tspan></text>
+      <text id="R" transform="translate(-811.893 1891.744)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="8.837" y="19">R</tspan></text>
+      <text id="S" transform="translate(-763.093 1891.744)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="9.461" y="19">S</tspan></text>
+      <text id="T" transform="translate(-714.293 1891.744)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="9.421" y="19">T</tspan></text>
+      <g id="Grupo_10544" data-name="Grupo 10544">
+        <g id="Grupo_10543" data-name="Grupo 10543">
+          <g id="Grupo_10542" data-name="Grupo 10542">
+            <path id="Trazado_3924" data-name="Trazado 3924" d="M-909.893,1821.49v2.083h-12.849v-7.251h1.775v5.168h4.017v-4.843h1.784v4.843Z" fill="#805413"/>
+            <path id="Trazado_3925" data-name="Trazado 3925" d="M-909.893,1813.978h-12.849v-2.1h12.849Z" fill="#805413"/>
+            <path id="Trazado_3926" data-name="Trazado 3926" d="M-909.893,1808.489h-12.849v-2.1H-911.7v-5.441h1.8Z" fill="#805413"/>
+            <path id="Trazado_3927" data-name="Trazado 3927" d="M-909.893,1790.769l-3.568,1.283v4.913l3.568,1.257v2.215l-12.9-4.808v-2.285l12.9-4.808Zm-5.379,1.836-3.5,1.205q-.351.13-1.107.364t-1.108.321a19.8,19.8,0,0,1,2.365.694l3.348,1.161Z" fill="#805413"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
