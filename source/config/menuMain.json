@@ -7,7 +7,7 @@
   },
   {
     "id":0,
-    "icon": "fa fa-play-circle",
+    "icon": "fa fa-file-text",
     "slug": "introduccion",
     "title": "Introducción",
     "breadcrumb": ["Inicio","introduccion"],
@@ -36,7 +36,7 @@
         "anchor": "unidimensionales"
       },   
       {
-        "icon": "fa fa-play-circle",
+        "icon": "fa fa-file-text",
         "slug": "tipos",
         "title": "2.2 Multidimensionales",
         "anchor": "multidimensionales"
