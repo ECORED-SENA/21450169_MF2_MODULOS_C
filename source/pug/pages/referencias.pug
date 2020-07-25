@@ -1,7 +1,9 @@
+include ../mixins/functions
+
 .container
 
-  ol
+    .header-ecored
+        h1 Referencias bibliográficas
 
-    li
-      p 
-        | Joyanes, L. (1996). Fundamentos de programación, algoritmos y estructuras de datos. Madrid, España: Mc Graw Hill.
+    .jumbotron.bg-white.referencias
+        +referenciaItem("Joyanes, L. (1996). Fundamentos de programación, algoritmos y estructuras de datos. Madrid, España: Mc Graw Hill.", "")
