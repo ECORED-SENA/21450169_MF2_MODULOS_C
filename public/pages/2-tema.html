@@ -4,7 +4,7 @@
     </div>
     <div class="row mx-0 recuadro1">
         <div class="col-12">
-            <p class="m-0">Existen dos tipos de arreglos: unidimensional y multidimensional. El más sencillo es el arreglo unidimensional o también denominado vector, que puede estar compuesto por n elementos del mismo tipo, organizados de forma secuencial; le sigue en complejidad el arreglo multidimensional, que puede tener dos o más dimensiones.</p>
+            <p class="m-0">Existen dos tipos de arreglos: unidimensional y multidimensional. El más sencillo es el arreglo unidimensional o también denominado vector, que puede estar compuesto por <i>n </i>elementos del mismo tipo, organizados de forma secuencial; le sigue en complejidad el arreglo multidimensional, que puede tener dos o más dimensiones.</p>
         </div>
         <div class="col-12 text-center"><img class="mt-5 img-fluid" src="assets/images/pages/img3.svg" style="max-width: 80%" /></div>
     </div><br />
@@ -22,10 +22,12 @@
     <div class="row mx-0 recuadro1">
         <div class="col-12">
             <p>Tal como su nombre lo indica, los arreglos unidimensionales tienen una única dimensión y también son conocidos como vectores.</p>
-            <p>Están compuestos por un conjunto ordenado de datos del mismo tipo; es decir, un arreglo puede tener <b>n </b>elementos de tipo entero <i>(int)</i>, <b>n </b>elementos de tipo carácter <i>(char)</i>, <b>n </b>elementos de tipo cadena de texto <i>(string)</i>, etc.</p>
+            <p>Están compuestos por un conjunto ordenado de datos del mismo tipo; es decir, un arreglo puede tener <i>n </i>elementos de tipo entero <i>(int)</i>, <i>n </i>elementos de tipo carácter <i>(char)</i>, <i>n </i>elementos de tipo cadena de texto <i>(string)</i>, etc.</p>
             <p class="m-0">Cada elemento de un arreglo puede identificarse teniendo en cuenta su respectivo índice, que va desde el número 0 hasta la cantidad de elementos menos 1. En la siguiente figura se puede observar la representación gráfica de un vector, donde los números del 0 al 6 corresponden a los índices de cada una de las 7 posiciones del vector.</p>
         </div>
-        <div class="col-12 text-center py-4"><img class="mt-5 img-fluid" src="assets/images/pages/img5.svg" style="max-width: 80%" /></div>
+        <div class="col-12 text-center">
+            <p class="mt-3"><b>Representación gráfica de un arreglo unidimensional</b></p><img class="img-fluid" src="assets/images/pages/img2.png" style="max-width: 40%" />
+        </div>
         <div class="col-12">
             <p>De esta forma se puede identificar, que si el vector es por ejemplo de 15 posiciones, los índices irán del 0 al 14, cumpliendo con lo indicado respecto a que la cantidad de posiciones es igual a <b> <i>n </i></b>y los índices van desde 0 hasta <i>n-1</i>, entonces 15 – 1 = 14, se tendrían índices del 0 al 14.</p>
         </div>
@@ -36,8 +38,10 @@
             <p class="m-0" style="color: #FFFFFF">Una de las ventajas en la utilización de vectores consiste en que se pueden tener muchos datos en una sola variable y que además pueden usarse de forma independiente como si estos fueran variables diferentes; esto sucede debido a que cada elemento del vector está ocupando una posición de memoria diferente.</p>
         </div>
     </div><br />
-    <div class="row mx-0 recuadro1 p-2">
-        <div class="col-12 py-2"><img class="img-fluid" src="assets/images/pages/img7.svg" style="max-width: 100%" /></div>
+    <div class="row mx-0 recuadro1">
+        <div class="col-12 icon definicion">
+            <p class="m-0 text-icon"><b>Definición</b></p>
+        </div>
         <div class="col-12"><br />
             <div class="row mx-0 align-items-center">
                 <div class="col-1"><img class="img-fluid" src="assets/images/pages/img8.svg" style="max-width: 100%" /></div>
@@ -70,7 +74,7 @@
             <div class="row mx-0 align-items-center">
                 <div class="col-1"><img class="img-fluid" src="assets/images/pages/img10.svg" style="max-width: 100%" /></div>
                 <div class="col-11">
-                    <p class="m-0">Dichos datos pueden accederse de forma independiente a través de cada uno de sus índices, así:</p>
+                    <p class="m-0">Dichos datos pueden accederse de forma independiente a través de cada uno de sus índices de la siguiente forma:</p>
                 </div>
             </div>
         </div>
@@ -109,7 +113,7 @@
             </div>
         </div>
     </div><br />
-    <div class="row mx-0 recuadro1 p-2">
+    <div class="row mx-0 recuadro1">
         <div class="col-12">
             <p>Otra posibilidad que se tiene con los arreglos consiste en definir tipos de datos propios a partir de estos; es decir, se elige el tipo de dato que deben manejar los arreglos, el nombre y el tamaño, y a partir de ello se pueden definir tantos arreglos como se desee, que conservarán el mismo tamaño y tipo de dato del tipo personalizado que se ha definido. Para una mejor comprensión al respecto, se realiza el proceso a continuación:</p>
         </div>
@@ -158,9 +162,11 @@
             </div>
         </div>
     </div><br />
-    <div class="row mx-0 recuadro1 p-2">
-        <div class="col-12 py-3"><img class="img-fluid" src="assets/images/pages/img20.svg" style="max-width: 100%" /></div>
-        <div class="col-12">
+    <div class="row mx-0 recuadro1">
+        <div class="col-12 icon inicializacion">
+            <p class="m-0 text-icon"><b>Inicialización</b></p>
+        </div>
+        <div class="col-12 mt-3">
             <p>La inicialización de los arreglos en el lenguaje de programación C++ puede efectuarse de diferentes maneras, de acuerdo con la preferencia del programador o en otros casos con las necesidades del sistema a desarrollar.</p>
             <p>Los arreglos se pueden inicializar al momento de su declaración, lo cual posibilitará configurar un valor específico para cada elemento en una sola línea de código, o bien, inicializar de manera posterior cada uno de sus elementos en líneas de código independientes.</p>
             <p>A continuación se observa la inicialización de un arreglo en el momento de su definición:</p>
@@ -186,7 +192,7 @@
         <div class="col-12">
             <p>Otra forma de inicialización que falta abordar es la siguiente:</p>
         </div>
-        <div class="col-12 mb-3"><img class="img-fluid" src="assets/images/pages/img13.svg" style="max-width: 100%" /></div>
+        <div class="col-12 mb-3"><img class="img-fluid" src="assets/images/pages/img77.svg" style="max-width: 100%" /></div>
         <div class="col-12">
             <p>Se define un arreglo de tipo carácter, llamado vocales de tamaño cinco, y a su vez se inicializan los cinco elementos que contiene; al inicializarlos todos, el tamaño podría omitirse, sin embargo, si no se omite no significa que ello sea considerado como un error.</p>
         </div>
@@ -199,8 +205,10 @@
             </div>
         </div>
     </div><br />
-    <div class="row mx-0 recuadro1 p-2">
-        <div class="col-12 py-3"><img class="img-fluid" src="assets/images/pages/img27.svg" style="max-width: 100%" /></div>
+    <div class="row mx-0 recuadro1">
+        <div class="col-12 icon operaciones">
+            <p class="m-0 text-icon"><b>Operaciones</b></p>
+        </div>
         <div class="col-12 py-3">
             <p>Durante el proceso de programación de soluciones informáticas es posible efectuar diferentes operaciones con las variables de tipo arreglo, dichas operaciones son:</p>
         </div>
@@ -228,7 +236,7 @@
                                 </div>
                                 <div class="col-12 mb-3"><img class="img-fluid" src="assets/images/pages/img31.svg" style="max-width: 100%" /></div>
                                 <div class="col-12 mb-3">
-                                    <p>En este caso se utiliza la estructura repetitiva <i>for </i>para asignar al vector de nombre valor el dato entero 45 en todas sus posiciones. De este modo, si se pidiera al programa que muestre en pantalla el contenido del vector valor, el resultado devuelto sería el siguiente:</p>
+                                    <p>En este caso se utiliza la estructura repetitiva <i>for </i>para asignar al vector de nombre <i>valor </i>el dato entero 45 en todas sus posiciones. De este modo, si se pidiera al programa que muestre en pantalla el contenido del vector <i>valor</i>, el resultado devuelto sería el siguiente:</p>
                                 </div>
                                 <div class="col-12 mb-3"><img class="img-fluid" src="assets/images/pages/img30.svg" style="max-width: 100%" /></div>
                             </div>
@@ -250,7 +258,7 @@
                                 <div class="col-12 mb-3"><img class="img-fluid" src="assets/images/pages/img32.svg" style="max-width: 100%" /></div>
                                 <div class="col-12 mb-3">
                                     <p>Con la instrucción anterior se está leyendo la información del arreglo llamado <i>valor</i>, sin utilizar una estructura repetitiva, porque en este caso solamente se desea leer el contenido del tercer elemento del vector.</p>
-                                    <p>La estructura repetitiva se hace necesaria si se desea conocer todo el contenido del vector, y la instrucción sería así:</p>
+                                    <p class="mt-2">La estructura repetitiva se hace necesaria si se desea conocer todo el contenido del vector, y la instrucción sería así:</p>
                                 </div>
                                 <div class="col-12 mb-3"><img class="img-fluid" src="assets/images/pages/img33.svg" style="max-width: 100%" /></div>
                                 <div class="col-12 mb-3">
@@ -278,7 +286,7 @@
                     <div class="collapse" id="collapseThree" aria-labelledby="headingThree" data-parent="#accordionExample" style="background-color: #FFFFFF">
                         <div class="card-body">
                             <div class="row">
-                                <div class="col-12 mb-3"><img class="img-fluid" src="assets/images/pages/img36.svg" style="max-width: 100%" /></div>
+                                <div class="col-12 mb-3"><img class="img-fluid" src="assets/images/pages/img3.png" style="max-width: 100%" /></div>
                                 <div class="col-12 mb-3">
                                     <p>Los arreglos se recorren entonces con estructuras repetitivas de acuerdo con la necesidad del programador, y se recorren, ya sea para acceder a la información que contienen o para insertarles la misma.</p><br />
                                     <p>Dichos recorridos dejan ver su especial utilidad en los casos donde los arreglos contienen una buena cantidad de elementos, ya que con solo unas cuantas líneas de código es posible acceder a todos los datos contenidos en los vectores, o bien, insertar cada uno en sus respectivas posiciones.</p><br />
@@ -306,15 +314,17 @@
                                     <p>La actualización de arreglos consiste en agregar o borrar elementos de los mismos en una posición determinada, se realiza también utilizando estructuras repetitivas; teniendo en cuenta que la definición de arreglo como tal consiste en variables que permiten almacenar varios datos del mismo tipo en posiciones consecutivas de memoria, no es posible borrar un elemento del arreglo y dejar su posición vacía, por lo tanto, se hace necesario adecuar el programa para que rellene la posición del elemento borrado con un elemento existente, y de igual manera, cuando se agregan elementos en medio de otros, se deben mover los demás tantas posiciones como elementos hayan sido agregados, para que la estructura del arreglo no se altere.</p><br />
                                     <p>Lo anterior es más sencillo de comprender si se analiza gráficamente. En la siguiente figura se observa un arreglo de tipo <i>string </i>de diez elementos llamado materias, en dicho arreglo es requisito que sus elementos estén almacenados en orden alfabético:</p>
                                 </div>
-                                <div class="col-12 mb-3 text-center"><img class="img-fluid" src="assets/images/pages/img38.svg" style="max-width: 60%" /></div>
+                                <div class="col-12 mb-3 text-center">
+                                    <p class="mb-3"><b>Representación gráfica de un arreglo unidimensional</b></p><img class="img-fluid" src="assets/images/pages/img4.png" style="max-width: 20%" />
+                                </div>
                                 <div class="col-12 mb-3">
                                     <p>A continuación se analizan los diferentes tipos de operaciones de actualización que se pueden realizar sobre el arreglo <i>materias</i></p>
                                 </div>
-                                <div class="col-12 mb-3 text-center"><img class="img-fluid" src="assets/images/pages/img39.svg" style="max-width: 100%" /></div>
-                                <div class="col-12 mb-3 text-center"><img class="img-fluid" src="assets/images/pages/img40.svg" style="max-width: 100%" /></div>
+                                <div class="col-12 mb-3 text-center"><img class="img-fluid" src="assets/images/pages/img5.png" style="max-width: 100%" /></div>
+                                <div class="col-12 mb-3 text-center"><img class="img-fluid" src="assets/images/pages/img6.png" style="max-width: 100%" /></div>
                                 <div class="col-12 mb-3">
                                     <p>Los procesos antes mencionados se llevan a cabo utilizando estructuras repetitivas que realizan los respectivos desplazamientos cuando sean requeridos.</p><br />
-                                    <p>Todo lo abordado en los numerales 2.1.1, 2.1.2 y 2.1.3 de este material de formación se ejemplificará en la siguiente sección.</p>
+                                    <p>A continuación se ejemplificará todo lo aborado en el apartado de arreglos Unidimensionales.</p>
                                 </div>
                             </div>
                         </div>
@@ -332,7 +342,7 @@
             <p>Se recomienda al aprendiz abrir el programa Dev-C++ e ir digitando, compilando y ejecutando los ejercicios vistos a continuación, lo anterior le servirá para adquirir la práctica necesaria en el lenguaje e irse preparando con miras a la solución de las evidencias requeridas en la actividad de aprendizaje 2.</p>
         </div>
     </div><br />
-    <div class="row mx-0 recuadro4 justify-content-center mx-5">
+    <div class="row recuadro4 justify-content-center mx-5">
         <div class="col-5 mt-4">
             <div class="card"><a class="btn media-link" href="media/documentos/MF2_Unidimensionales_Ejercicio1.pdf" target="_blank"> <img class="media-link-icon" src="assets/images/pages/img76.svg" alt="" />
                     <div class="media-link-title">
@@ -423,7 +433,7 @@
     <div class="header-ecored">
         <h2>2.2 Multidimensionales</h2>
     </div>
-    <div class="row mx-0 recuadro1 p-3">
+    <div class="row mx-0 recuadro1">
         <div class="col-12 mb-3">
             <p class="mb-3">Tal como su nombre lo indica, los arreglos multidimensionales tienen varias dimensiones y también son conocidos como tablas o matrices.</p>
             <p>Están compuestos por otros arreglos, razón por la cual suele escucharse la expresión “arreglo de arreglos” o “vector de vectores”, porque al igual que en los unidimensionales, estos guardan un conjunto de datos del mismo tipo; la diferencia consiste en que un arreglo multidimensional puede tener <b><i>n </i></b>elementos que almacenan en su interior otros <b><i>n </i></b>elementos con <b><i>n </i></b>elementos dentro, etc.</p>
@@ -444,7 +454,9 @@
         <div class="col-12 mb-3">
             <p>Los índices comienzan en <i> <b>0 </b></i>hasta la cantidad de elementos menos 1 <i> <b>(n-1)</b></i>, como se tienen en cuenta filas y columnas entonces se repite, las filas van de <i><b>0 </b></i>hasta <i><b>n-1 </b></i>y las columnas van de <i><b>0 </b></i>hasta <i> <b>n-1</b></i>. En la siguiente figura se puede observar la representación gráfica de un arreglo bidimensional.</p>
         </div>
-        <div class="col-12 mb-4 text-center"><img class="img-fluid" src="assets/images/pages/img43.svg" style="max-width: 60%" /></div>
+        <div class="col-12 mb-4 text-center">
+            <p><b>Representación gráfica de un arreglo bidimensional</b></p><img class="img-fluid" src="assets/images/pages/img7.png" style="max-width: 20%" />
+        </div>
         <div class="col-12 mb-3">
             <p>De acuerdo con la figura anterior, para identificar dentro del arreglo bidimensional graficado las letras O, Q y D se deben relacionar los dos índices que corresponden a cada uno, mencionando primero el de la fila y por último el de la columna; para efectos del ejemplo se supone que el arreglo se llama <b><i>letras </i></b>y la identificación de los datos mencionados sería así: </p>
         </div>
@@ -453,9 +465,11 @@
             <p>Para cada uno de los tres datos se identifican el número de la fila y el número de la columna correspondientes.</p>
         </div>
     </div><br />
-    <div class="row mx-0 recuadro1 p-3">
-        <div class="col-12 mb-3"><img class="img-fluid" src="assets/images/pages/img45.svg" style="max-width: 100%" /></div>
-        <div class="col-12 mb-3">
+    <div class="row mx-0 recuadro1">
+        <div class="col-12 icon definicion">
+            <p class="m-0 text-icon"><b>Definición</b></p>
+        </div>
+        <div class="col-12 my-3">
             <p>La sintaxis básica para definir un arreglo bidimensional en el lenguaje de programación C++ es la siguiente:</p>
         </div>
         <div class="col-12 mb-3"><img class="img-fluid" src="assets/images/pages/img46.svg" style="max-width: 100%" /></div>
@@ -476,9 +490,11 @@
             </div>
         </div>
     </div><br />
-    <div class="row mx-0 recuadro1 p-3">
-        <div class="col-12 mb-3"><img class="img-fluid" src="assets/images/pages/img55.svg" style="max-width: 100%" /></div>
-        <div class="col-12 mb-3">
+    <div class="row mx-0 recuadro1">
+        <div class="col-12 icon inicializacion">
+            <p class="m-0 text-icon"><b>Inicialización</b></p>
+        </div>
+        <div class="col-12 my-3">
             <p>De la misma manera que se inicializan los arreglos unidimensionales en la declaración, también puede hacerse con los de varias dimensiones. La sintaxis de inicialización sería la siguiente:</p>
         </div>
         <div class="col-12 mb-3"><img class="img-fluid" src="assets/images/pages/img50.svg" style="max-width: 100%" /></div>
@@ -507,9 +523,11 @@
             <p class="mb-3">En donde el 0 corresponde a la primera fila y el 1 a la segunda columna.</p>
         </div>
     </div><br />
-    <div class="row mx-0 recuadro1 p-3">
-        <div class="col-12 mb-3"><img class="img-fluid" src="assets/images/pages/img56.svg" style="max-width: 100%" /></div>
-        <div class="col-12 mb-3">
+    <div class="row mx-0 recuadro1">
+        <div class="col-12 icon operaciones">
+            <p class="m-0 text-icon"><b>Operaciones</b></p>
+        </div>
+        <div class="col-12 my-3">
             <p>Con las tablas o matrices pueden realizarse las operaciones de asignación, lectura-escritura y recorrido.</p>
         </div>
         <div class="col-12">
@@ -530,7 +548,7 @@
                                 <div class="col-12 mb-3">
                                     <p>Las líneas anteriores asignan a la matriz de nombre <b><i>valor </i></b>los datos enteros 15 y 40 en las posiciones [0][1] y [2][3], lo cual se vería gráficamente así:</p>
                                 </div>
-                                <div class="col-12 mb-3 text-center"><img class="img-fluid" src="assets/images/pages/img58.svg" style="max-width: 60%" /></div>
+                                <div class="col-12 mb-3 text-center"><img class="img-fluid" src="assets/images/pages/img8.png" style="max-width: 40%" /></div>
                                 <div class="col-12 mb-3">
                                     <p>Si se desea efectuar una asignación masiva para todos los elementos de la matriz, por ejemplo, que todos contengan el valor 17, es necesario utilizar una estructura repetitiva como una instrucción <b><i>for </i></b>anidada, donde accediendo a todos los elementos del arreglo, se efectúe la respectiva asignación, así:</p>
                                 </div>
@@ -556,7 +574,7 @@
                                     <p class="mb-3">Dicho proceso puede llevarse a cabo elemento por elemento, indicando los respectivos índices o bien mostrando el total de elementos a través de una estructura repetitiva.</p>
                                     <p>De este modo, si se tiene declarada la siguiente matriz de nombre <i><b>empleados</b></i>, tipo <i><b>string</b></i>.</p>
                                 </div>
-                                <div class="col-12 mb-3 text-center"><img class="img-fluid" src="assets/images/pages/img60.svg" style="max-width: 60%" /></div>
+                                <div class="col-12 mb-3 text-center"><img class="img-fluid" src="assets/images/pages/img9.png" style="max-width: 60%" /></div>
                                 <div class="col-12 mb-3">
                                     <p>Y se desea mostrar en pantalla su contenido, la estructura repetitiva a emplear puede ser un <i><b>for </b></i>y el código sería así:</p>
                                 </div>
@@ -633,7 +651,7 @@
                                 <div class="col-12 py-3">
                                     <p>Para comprenderlo mejor se tendrían 4 tablas compuestas por 3 filas y 2 columnas:</p>
                                 </div>
-                                <div class="col-12 mb-3 text-center"><img class="img-fluid" src="assets/images/pages/img75.svg" style="max-width: 60%" /></div>
+                                <div class="col-12 mb-3 text-center"><img class="img-fluid" src="assets/images/pages/img10.png" style="max-width: 40%" /></div>
                                 <div class="col-12 mb-3">
                                     <p>El concepto anterior se detallará con mayor claridad a través de un ejemplo real en la siguiente sección de este material.</p>
                                 </div>
@@ -653,7 +671,7 @@
             <p>Se recomienda al aprendiz abrir el programa Dev-C++ e ir digitando, compilando y ejecutando los ejercicios vistos a continuación, lo anterior le servirá para adquirir la práctica necesaria en el lenguaje e irse preparando con miras a la solución de las evidencias requeridas en la actividad de aprendizaje 2.</p>
         </div>
     </div><br />
-    <div class="row mx-0 recuadro4 justify-content-center mx-5">
+    <div class="row recuadro4 justify-content-center mx-5">
         <div class="col-5 mt-4">
             <div class="card"><a class="btn media-link" href="media/documentos/MF2_Multidimensionales_Ejercicio7.pdf" target="_blank"> <img class="media-link-icon" src="assets/images/pages/img76.svg" alt="" />
                     <div class="media-link-title">
